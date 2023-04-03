@@ -1,50 +1,54 @@
-# cangjie
-仓颉字体，因为<https://github.com/yanyingwang/ming>的原因需要新造一些汉字，为了使用方便，这部份汉字字符被单独提取了出来，起名为“仓颉”。
+# 仓颉字体/cangjie
+因为实现[名语言](https://github.com/yanyingwang/ming)的原因我新造了一些汉字，又为了使用方便，就把这部份汉字字符单独提取了出来，起名为“仓颉”。
+
+# 如何输入
+* 在gedit中， 可以按下`Shift+Ctrl+u`后输入unicode编码然后按回车即可输入相应字。
+* 使用[rime输入法](https://github.com/yanyingwang/rime_custom)配合[asdfma](https://github.com/yanyingwang/asdfzma/)输入方案来输入，编码见[ming_lang.dict.yaml](https://github.com/yanyingwang/rime_custom/blob/master/dicts/asdfzma/ming_lang.dict.yaml)。
 
 
+# 非现代汉语常用字列表
+| 字 | UNICODE | 郑码 | 相关字
+| 㘝| 361D  | jaby |
+| 𨑱 | 28471  | pbby |
+| 𰙪 | 3066A  | tbby |
+| 𭠎 | 2D80E   | aby |
+| 𬤏 | 2C90F  |  yuvb |
+| 徝 | --- | rhvl 
+| 𡖻 | 215BB | qyvl    
+| 𠉗 | 20257 | tgm
+| 𠍣 |20363 | taks    
+| 𰂃 | 30083 | 
+| 挦 | 6326 |  
+| 𬩽 | 2CA7D | ban
+| 𨚞 | 2869E |  
+| 𮞑 | 2E791 | qyjp/qjp
+| 䢼 | U+48BC | 
+| 𪭨 | U+2AB68 | agf
+| 𥎪 | U+253AA | 
+| 𢪛 | U+22A9B | agr
+| 䒨 | U+44A8 | vgf
+| 𰂋 | U+3008B | tulk
+| 𢎨 | U+223A8 | nmt
+| 弔 | U+5F14 | 
+| 𨑩 | U+28469 | nmh
+| 𫼛 | U+2BF1B | anmh/anm
+| 伄 | U+4F04 | tnmh/tnm
+| 𠇁 | U+201C1 | tnmh 
+| 𢪉 | U+22A89 | anmh 
+| 𠝤 | U+20764 | gvdk | 濌 䳯
+| 𬩵 | U+2CA75 | jhn/jhnf | 䦿钟
+| 佫 | tqyj | 
+| 酪 | caqj | 
+| 㦴 | zgqj | 
+| 垎 | dqj | 
+| 垿 | U+57BF | dubb/dubh
+| 㙏 | U+364F | dgkq
 
-# hwo to iniput unicode char in gedit
-Shift+Ctrl+u
-
-# officially defiend characters:
-| 部分  | UNICODE | 字 | 郑码 |
-|口又   | 361D    | 㘝 | jaby |
-|辶双   | 28471   | 𨑱 | pbby |
-|亻双   | 3066A   | 𰙪 | tbby |
-|扌又   | 2D80E   | 𭠎 | aby |
-|讠度   | 2C90F   | 𬤏 | yuvb |
-徝 rhvl
-𡖻 qyvl   215BB
-𠉗 tgm    20257
-𠍣 taks   20363
-𰂃  30083  亻寻
-挦  6326   abay
-𬩽  2CA7D  ban   寻阝
-𨚞  2869E  右阝
-𮞑  2E791 qyjp/qjp  辶各
-䢼 U+48BC 共阝
-𪭨 U+2AB68 扌矢 agf
-𥎪 U+253AA 矢攵
-𢪛 U+22A9B 扌攵 agr
-䒨 U+44A8 vgf
-𰂋 $3008B tulk
-𢎨 U+223A8 nmt
-弔 U+5F14𨑩 U+28469 nmh
-𫼛 U+2BF1B anmh anm
-伄 U+4F04 tnmh tnm
-𠇁 U+201C1 tnmh 
-𢪉 U+22A89 anmh 
-𠝤 U+20764 gvdk       濌 䳯
-𬩵 U+2CA75  jhn jhnf        䦿钟
-佫 tqyj
-酪 caqj
-㦴 zgqj
-垎 dqj
 
 兦
 
 
-# customized characters:
+# 私人编码字符列表
 | 部分 | UNICODE | 字 | 郑码 | 拼音 |
 | ---  | ------- | -- | --- | ----- |
 | 之又 |  10FFFD | 􏿽 |  pby |
@@ -141,7 +145,7 @@ Shift+Ctrl+u
 | 扌䒨 |  $10FFA3 | 􏾣 | avgf
 | 矢里 |  $10FFA2 | 􏾢 | gfkd
 | 䒨里 |  $10FFA1 | 􏾡 | vgkd
-| 艹 弓矢里 |  $10FFA0 | 􏾠 | vnkd vngk
+| 艹 弓矢里 |  $10FFA0 | 􏾠 | vnkd/vngk
 |----|---|----|-----|-------
 | 艹 矢攵 |  $10FDFF | 􏷿 | vggr
 | 艹 弓矢攵 |  $10FDFE | 􏷾 | vngg
@@ -149,21 +153,21 @@ Shift+Ctrl+u
 | 扌𢎨 |  $10FDFC | 􏷼 | anm
 | 寻弔 |  $10FDFB | 􏷻 | banm
 | 亻寻弔 |  $10FDFA | 􏷺 | tban
-| 亻查 |  $10FDF9 | 􏷹 | tckf    渣 馇 㜁 碴   猹
+| 亻查 |  $10FDF9 | 􏷹 | tckf | 渣 馇 㜁 碴 猹
 | 亻㐅查 |  $10FDF8 | 􏷸 | trkf
 | 㐅查 |  $10FDF7 | 􏷷 | rykf
-| 查刂 |  $10FDF6 | 􏷶 | ckfk   皶
-| 左刂 |  $10FDF5 | 􏷵 | xaka xdka
-| 右刂 |  $10FDF4 | 􏷴 | xaka xjka
-| 共刂 |  $10FDF3 | 􏷳 | vfka vrka
-| 寻刂 |  $10FDF2 | 􏷲  | bak bdak
-| 且各  |  $10FDF1 |  􏷱  | laqj    略 䪶 鴡 雎 刞 䢸
+| 查刂 |  $10FDF6 | 􏷶 | ckfk | 皶
+| 左刂 |  $10FDF5 | 􏷵 | xaka/xdka
+| 右刂 |  $10FDF4 | 􏷴 | xaka/xjka
+| 共刂 |  $10FDF3 | 􏷳 | vfka/vrka
+| 寻刂 |  $10FDF2 | 􏷲  | bak/bdak
+| 且各  |  $10FDF1 |  􏷱  | laqj | 略 䪶 鴡 雎 刞 䢸
 | 或各  |  $10FDF0 | 􏷰 | zgqj
 | 亻查各  |  $10FDEF | 􏷯  | tcqj
-| 各且   |  $10FDEE | 􏷮 |         鵅  组 袓 姐 耝 殂 
-| 各或   |  $10FDED | 􏷭 | 
-| 各且   |  $10FDEC | 􏷬 |        洜   罝 㚗 
+| 各且   |  $10FDEE | 􏷮 | 鵅 组 袓 姐 耝 殂
+| 各或   |  $10FDED | 􏷭 |
+| 各且   |  $10FDEC |  | 洜 罝 㚗
 
 
-累 === 复	
+
 

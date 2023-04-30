@@ -14,14 +14,14 @@
 | 𰙪 | 3066A  | tbby |
 | 𭠎 | 2D80E   | aby |
 | 𬤏 | 2C90F  |  yuvb |
-| 徝 | --- | rhvl 
-| 𡖻 | 215BB | qyvl    
+| 徝 | --- | rhvl
+| 𡖻 | 215BB | qyvl
 | 𠉗 | 20257 | tgm
-| 𠍣 |20363 | taks    
+| 𠍣 |20363 | taks
 | 𰂃 | 30083 | 
 | 挦 | 6326 |
 | 𬩽 | 2CA7D | ban
-| 𨚞 | 2869E |
+| 𨚞 | 2869E | xjn
 | 𮞑 | 2E791 | qyjp/qjp
 | 䢼 | U+48BC | 
 | 𪭨 | U+2AB68 | agf
@@ -30,7 +30,7 @@
 | 䒨 | U+44A8 | vgf
 | 𰂋 | U+3008B | tulk
 | 𢎨 | U+223A8 | nmt
-| 弔 | U+5F14 | 
+| 弔 | U+5F14 | nmh
 | 𨑩 | U+28469 | nmh
 | 𫼛 | U+2BF1B | anmh/anm
 | 伄 | U+4F04 | tnmh/tnm
@@ -44,9 +44,8 @@
 | 垎 | dqj | 
 | 垿 | U+57BF | dubb/dubh
 | 㙏 | U+364F | dgkq
+| 𠆯 | U+201AF |  tta
 
-
-兦
 
 
 # 私人编码字符列表
@@ -147,10 +146,15 @@
 | 矢里 |  $10FFA2 | 􏾢 | gfkd
 | 䒨里 |  $10FFA1 | 􏾡 | vgkd
 | 艹 弓矢里 |  $10FFA0 | 􏾠 | vnkd/vngk
+
 |----|---|----|-----|-------
 | 土 又 㐅 | U+10ff9f | 􏾟 | dbry
 | 土 又 又 | U+10ff9e | 􏾞 | dbby
 | 弔阝 | U+10ff9d | 􏾝 | nmhn
+| 亻糸 | U+10ff9c | 􏾜 | tmf
+| 亻屰 | U+10ff9b | 􏾛 | tim
+| 亻顺 | U+10ff9a | 􏾚 |  ttxr
+| 亻巛 | U+10ff99 | 􏾙 | tma
 
 
 
@@ -177,5 +181,9 @@
 | 各且   |  $10FDEC |  | 洜 罝 㚗
 
 
+
+
+
+屮 兦
 
 

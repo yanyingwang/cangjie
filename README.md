@@ -37,6 +37,7 @@
 | 𠇁 | U+201C1 | tnmh 
 | 𢪉 | U+22A89 | anmh 
 | 𠝤 | U+20764 | gvdk | 濌 䳯
+| 偅 | U+5045  | tgkd |
 | 𬩵 | U+2CA75 | jhn/jhnf | 䦿钟
 | 佫 | tqyj | 
 | 酪 | caqj | 
@@ -44,7 +45,8 @@
 | 垎 | dqj | 
 | 垿 | U+57BF | dubb/dubh
 | 㙏 | U+364F | dgkq
-| 𠆯 | U+201AF |  tta
+| 𠆯 | U+201AF | tta
+| 𥸬 | U+25E2C | icnf
 
 
 
@@ -155,7 +157,9 @@
 | 亻屰 | U+10ff9b | 􏾛 | tim
 | 亻顺 | U+10ff9a | 􏾚 |  ttxr
 | 亻巛 | U+10ff99 | 􏾙 | tma
-
+| 弔刂 | U+10ff98 | 􏾘 | nmhk
+| 古同 | U+10ff97 | 􏾗 | vajl vjla
+| 米古同 | U+10ff96 | 􏾖 | icvl ivjl
 
 
 |----|---|----|-----|-------

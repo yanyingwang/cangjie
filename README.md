@@ -160,7 +160,10 @@
 | 弔刂 | U+10ff98 | 􏾘 | nmhk
 | 古同 | U+10ff97 | 􏾗 | vajl vjla
 | 米古同 | U+10ff96 | 􏾖 | icvl ivjl
-
+| 舍同 | U+10ff95 | 􏾕 | ragl
+| 古宀双 | U+10ff94 | 􏾔 | vjpb vapb
+| 亻宀双 | U+10ff93 | 􏾓 | tpbb
+| 舍宀双 | U+10ff92 | 􏾒 | rgpb
 
 |----|---|----|-----|-------
 | 艹 矢攵 |  $10FDFF | 􏷿 | vggr

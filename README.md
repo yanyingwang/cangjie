@@ -164,6 +164,16 @@
 | 古宀双 | U+10ff94 | 􏾔 | vjpb vapb
 | 亻宀双 | U+10ff93 | 􏾓 | tpbb
 | 舍宀双 | U+10ff92 | 􏾒 | rgpb
+| 氵厂双 | U+10ff91 | 􏾑 | oxbb
+| 山厂双 | U+10ff90 | 􏾐 | lxbb
+| 艹厂双 | U+10ff8f | 􏾏 | vxbb
+| ⺮厂双 | U+10ff8e | 􏾎 | gxbb
+| 小厂双 | U+10ff8d | 􏾍 | kxbb
+| 口厂双 | U+10ff8c | 􏾌 | jubb
+| 古厂双 | U+10ff8b | 􏾋 | vjub vjbb
+| 舌厂双 | U+10ff8a | 􏾊 | ghub ghbb gubb
+| 亻厂双 | U+10ff89 | 􏾉 | tubb
+| 艹丨厂双 | U+10ff88 | 􏾈 | vxbb vubb
 
 |----|---|----|-----|-------
 | 艹 矢攵 |  $10FDFF | 􏷿 | vggr

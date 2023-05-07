@@ -174,6 +174,33 @@
 | 舌厂双 | U+10ff8a | 􏾊 | ghub ghbb gubb
 | 亻厂双 | U+10ff89 | 􏾉 | tubb
 | 艹丨厂双 | U+10ff88 | 􏾈 | vxbb vubb
+| 口山厂双 | U+10ff87 | 􏾇 | jlbb
+| 古山厂双 | U+10ff86 | 􏾆 | vlbb
+| 舌山厂双 | U+10ff85 | 􏾅 | glbb
+| 亻山厂双 | U+10ff84 | 􏾄 | tlbb
+| 舌同 | U+10ff83 | 􏾃 | ghla
+| 口艹厂双 | U+10ff82 | 􏾂 | kvbb
+| 古艹厂双 | U+10ff81 | 􏾁 | vvbb
+| 舌艹厂双 | U+10ff80 | 􏾀 | gvbb
+| 亻艹厂双 | U+10ff7f | 􏽿 | tvbb
+| 口艹丨厂双 | U+10ff7e | 􏽾 | kvbb
+| 古艹丨厂双 | U+10ff7d | 􏽽 | vvbb
+| 舌艹丨厂双 | U+10ff7c | 􏽼 | gvbb
+| 亻艹丨厂双 | U+10ff7b | 􏽻 | tvbb
+| 口氵厂双 | U+10ff7a | 􏽺 | jobb
+| 古氵厂双 | U+10ff79 | 􏽹 | vobb
+| 舌氵厂双 | U+10ff78 | 􏽸 | gobb
+| 亻氵厂双 | U+10ff77 | 􏽷 | tobb
+| 口⺮厂双 | U+10ff76 | 􏽶 | jgbb
+| 古⺮厂双 | U+10ff75 | 􏽵 | vgbb
+| 舌⺮厂双 | U+10ff74 | 􏽴 | ggbb
+| 亻⺮厂双 | U+10ff73 | 􏽳 | tgbb
+| 口⺮山厂双 | U+10ff72 | 􏽲 | jglb
+| 古⺮山厂双 | U+10ff71 | 􏽱 | vglb
+| 舌⺮山厂双 | U+10ff70 | 􏽰 | gglb
+| 亻⺮山厂双 | U+10ff6f | 􏽯 | tglb
+
+
 
 |----|---|----|-----|-------
 | 艹 矢攵 |  $10FDFF | 􏷿 | vggr

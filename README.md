@@ -199,6 +199,26 @@
 | 古⺮山厂双 | U+10ff71 | 􏽱 | vglb
 | 舌⺮山厂双 | U+10ff70 | 􏽰 | gglb
 | 亻⺮山厂双 | U+10ff6f | 􏽯 | tglb
+| 口⺮山厂双 | U+10ff6e | 􏽮 | jglb
+| 古⺮山厂双 | U+10ff6d | 􏽭 | vglb
+| 舌⺮山厂双 | U+10ff6c | 􏽬 | gglb
+| 亻⺮山厂双 | U+10ff6b | 􏽫 | tglb
+| 口十山厂双 | U+10ff6a | 􏽪 | jvlb
+| 古十山厂双 | U+10ff69 | 􏽩 | vvlb
+| 舌十山厂双 | U+10ff68 | 􏽨 | gvlb
+| 亻十山厂双 | U+10ff67 | 􏽧 | tvlb
+| 口⺮氵厂双 | U+10ff66 | 􏽦 | jgob
+| 古⺮氵厂双 | U+10ff65 | 􏽥 | vgob
+| 舌⺮氵厂双 | U+10ff64 | 􏽤 | ggob
+| 亻⺮氵厂双 | U+10ff63 | 􏽣 | tgob
+| 口十氵厂双 | U+10ff62 | 􏽢 | jvob
+| 古十氵厂双 | U+10ff61 | 􏽡 | vvob
+| 舌十氵厂双 | U+10ff60 | 􏽠 | gvob
+| 亻十氵厂双 | U+10ff5f | 􏽟 | tvob
+| ⺮山厂双 | U+10ff5e | 􏽞 | glbb
+|⺮氵厂双 | U+10ff5d | 􏽝 | gobb
+| 艹山厂双 | U+10ff5c | 􏽜 | vlbb
+| 艹氵厂双 | U+10ff5b | 􏽛 | vobb
 
 
 

@@ -47,8 +47,9 @@
 | 㙏 | U+364F | dgkq
 | 𠆯 | U+201AF | tta
 | 𥸬 | U+25E2C | icnf
-
-
+| 挌 | U+630C | aqj
+| 𥻑 | U+25ed1 | ickm iklm
+| 𥺿 | U+25EBF | ixfj
 
 # 私人编码字符列表
 | 分拆 | UNICODE | 字 | 郑码 | 拼音/相关字 |
@@ -150,7 +151,7 @@
 | 艹 弓矢里 |  $10FFA0 | 􏾠 | vnkd/vngk
 | 月 弔 |  U+26668 | 𦙨 | wnmh
 | 全刂 |  U+206ee | 𠛮 | rska rsk
-
+| 米合 |  U+7cad | 粭 | icrj irfj
 
 
 |----|---|----|-----|-------
@@ -229,7 +230,14 @@
 | 扌全刂 |  U+10ff57 | 􏽗 | arsk
 | 又亻各 |  U+10ff56 | 􏽖 | btqj
 | 亻复 |  U+10ff55 | 􏽕 | tgkq
-
+| 山矢㐅 |  U+10ff54 | 􏽔 | lgry llgr
+| 氵矢㐅 |  U+10ff53 | 􏽓 | ogry ofgr
+| 扌川 |  U+10ff52 | 􏽒 | ata
+| 扌土复 |  U+10ff51 | 􏽑 | adgq | 㴳 撇 攡
+| 米实 |  U+10ff50 | 􏽐 | icpx  ipux
+| 米虚 |  U+10ff4f | 􏽏 | ichk ihki
+| 米复 |  U+10ff4e | 􏽎 | icgq igkq
+| 米比 |  U+10ff4d |  | icqq
 
 
 |----|---|----|-----|-------

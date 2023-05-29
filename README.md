@@ -50,6 +50,19 @@
 | 挌 | U+630C | aqj
 | 𥻑 | U+25ed1 | ickm iklm
 | 𥺿 | U+25EBF | ixfj
+| 𦙨 |  U+26668 |  wnmh
+| 𠛮 |  U+206ee |  rska rsk
+| 粭 |  U+7cad |  icrj irfj
+| 粃 |  U+7c83 |  icqq
+| 𥹵 |  U+25e75 | iccj
+| 粰 |  U+7cb0 | icen
+| 𮇢 |  U+2e1e2 | icql
+| 㞺 |  U+37BA | llgf
+| 勺 |  U+2F828 | qnf
+| 𥦯 |  U+259AF | prks
+| 𰅡 |  U+30161 | aq
+
+
 
 # 私人编码字符列表
 | 分拆 | UNICODE | 字 | 郑码 | 拼音/相关字 |
@@ -64,11 +77,11 @@
 | 走   |  10FFF6 | 􏿶  | dr |
 | 辶矢又|  10FFF5 | 􏿵 | --- |
 | ---  | ------- | -- | --- |
-| 又㐅 |  10FFF4 | 􏿴 |	byry | shu
-| 双㐅 |  10FFF3 | 􏿳 |	bybr | shun
-| 矢㐅 |  10FFF2 | 􏿲 |	gfry | shi
-| 宀双 |  10FFF1 | 􏿱 |	pabb | wan
-| 广双 |  10FFF0 | 􏿰 |	uxbb | wen
+| 又㐅 |  10FFF4 | 􏿴 | byry | shu
+| 双㐅 |  10FFF3 | 􏿳 | bybr | shun
+| 矢㐅 |  10FFF2 | 􏿲 | gfry | shi
+| 宀双 |  10FFF1 | 􏿱 | pabb | wan
+| 广双 |  10FFF0 | 􏿰 | uxbb | wen
 | 又口 |  10FFEF | 􏿯 | byjf | kou
 | 又己 |  10FFEE | 􏿮 | bynn | ji
 | 礻勾 |  10FFED | 􏿭 | pyqm | gou
@@ -149,11 +162,6 @@
 | 矢里 |  $10FFA2 | 􏾢 | gfkd
 | 䒨里 |  $10FFA1 | 􏾡 | vgkd
 | 艹 弓矢里 |  $10FFA0 | 􏾠 | vnkd/vngk
-| 月 弔 |  U+26668 | 𦙨 | wnmh
-| 全刂 |  U+206ee | 𠛮 | rska rsk
-| 米合 |  U+7cad | 粭 | icrj irfj
-
-
 |----|---|----|-----|-------
 | 土 又 㐅 | U+10ff9f | 􏾟 | dbry
 | 土 又 又 | U+10ff9e | 􏾞 | dbby
@@ -237,8 +245,62 @@
 | 米实 |  U+10ff50 | 􏽐 | icpx  ipux
 | 米虚 |  U+10ff4f | 􏽏 | ichk ihki
 | 米复 |  U+10ff4e | 􏽎 | icgq igkq
-| 米比 |  U+10ff4d |  | icqq
-
+| 米北 |  U+10ff4d | 􏽍 | icuq
+| 米正 |  U+10ff4c | 􏽌 | icfh
+| 米负 |  U+10ff4b | 􏽋 | icqr iqlr
+| 米曾 |  U+10ff4a | 􏽊 | iclk iolk
+| 米员 |  U+10ff49 | 􏽉 | icjr ijlr
+| 米小 |  U+10ff48 | 􏽈 | ickr
+| 米大 |  U+10ff47 | 􏽇 | icxa
+| 米色 |  U+10ff46 | 􏽆 | icqn
+| 矢内 |  U+10ff45 | 􏽅 | gflr
+| 艹矢内 |  U+10ff44 | 􏽄 | vglr
+| 山勺 |  U+10ff43 | 􏽃 | llqf
+| 氵勺 |  U+10ff42 |  􏽂 | ofqf
+| 山句 |  U+10ff41 | 􏽁 | llqj
+| 氵句 |  U+10ff40 | 􏽀 | ofqj
+| 扌复 |  U+10ff3f | 􏼿 | agkq
+| 又贯 |  U+10ff3e | 􏼾 | bmlr
+| 又句 |  U+10ff3d | 􏼽 | byqj
+| 又句 |  U+10ff3c | 􏼼 | byqj
+| 句又 |  U+10ff3b | 􏼻 | qnjb
+| 空少 |  U+10ff3a | 􏼺 | prdk pdkr
+| 句本 |  U+10FF39 | 􏼹 | qjcf
+| 句末 |  U+10FF38 | 􏼸 | qjfc
+| 句有 |  U+10FF37 | 􏼷 | qjxe
+| 句左 |  U+10FF36 | 􏼶 | qjxd
+| 句右 |  U+10FF35 | 􏼵 | qjxj
+| 句中 |  U+10FF34 | 􏼴 | qjjh
+| 又孑句 |  U+10FF33 | 􏼳 | qjbn
+| 申句 |  U+10FF31 | 􏼱 | khqj
+| 申又句 |  U+10FF30 | 􏼰 | khbj kbqj khsj
+| 申山句  |  U+u10FF2F | 􏼯 | klqj khlj
+| 穴少句 |  U+u10FF2E | 􏼮 | prkj pkqj
+| 句弔 |  U+10FF2D | 􏼭 | qjnm
+| 句度 |  U+10FF2C | 􏼬 | qjub
+| 又㐅句 |  U+10FF2A | 􏼪 | brqj byrj
+| 句又㐅 |  U+10FF29 | 􏼩 | qjbr qnjr
+| 大与句 |  U+10FF28 | 􏼨 | xfqj
+| 小与句 |  U+10FF27 | 􏼧 | kfnj kfqj
+| 大小句 |  U+10FF26 | 􏼦 | xkqj xakj
+| 句戈 |  U+10FF25 | 􏼥 | qjzg qnjz
+| 本句 |  U+10FF24 | 􏼤 | cfqj
+| 末句 |  U+10FF23 | 􏼣 | fcqj
+| 干句 |  U+10FF22 | 􏼢 | fvqj
+| 匕句 |  U+10FF21 | 􏼡 | qqqj
+| 穴非句 |  U+10FF20 | 􏼠 | prkj pkqj
+| 句穴非 |  U+10FF1F | 􏼟 | qjpk
+| 句丷刀 |  U+10FF1E | 􏼞 | qjin
+| 句丷匕 |  U+10FF1D | 􏼝 | qjiq
+| 句䒑匕 |  U+10FF1C | 􏼜 | qjiq
+| 句穴一 |  U+10FF1B | 􏼛 | qjpf
+| 穴一句 |  U+10FF1A | 􏼚 | prfj pfqj
+| 穴一句 |  U+10FF19 | 􏼙 | iqqj iaqj
+| 扌句攵 |  U+10FF18 | 􏼘 | aqjg
+| 复句 |  U+10FF17 | 􏼗 | gkqj
+| 扌复句 |  U+10FF16 | 􏼖 | agkj
+| 扌句复 |  U+10FF15 | 􏼕 | aqjq
+| 弔句 |  U+10FF14 | 􏼔 | nmqj
 
 |----|---|----|-----|-------
 | 艹 矢攵 |  $10FDFF | 􏷿 | vggr
@@ -258,14 +320,14 @@
 | 且各  |  $10FDF1 |  􏷱  | laqj | 略 䪶 鴡 雎 刞 䢸
 | 或各  |  $10FDF0 | 􏷰 | zgqj
 | 亻查各  |  $10FDEF | 􏷯  | tcqj
-| 各且   |  $10FDEE | 􏷮 | 鵅 组 袓 姐 耝 殂
-| 各或   |  $10FDED | 􏷭 |
-| 各且   |  $10FDEC |  | 洜 罝 㚗
+| 各且  |  $10FDEE | 􏷮 | qjls | 鵅 组 袓 姐 耝 殂
+| 各或  |  $10FDED | 􏷭 | qjzg | 㦴
+| 各且  |  $10FDEC | 􏷬 | qjls | 洜 罝 㚗
 
 
 
 
-
-屮 兦
+胊 韭  㣊
+屮 兦 㧄
 
 

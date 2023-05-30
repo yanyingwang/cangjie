@@ -309,6 +309,14 @@
 | 弔又㐅 |  U+10FF0E | 􏼎 | nmbr nbry
 | 又㐅 |  U+10FF0D | 􏼍 | shbr sbry
 | 三丨句 |  U+10FF0C | 􏼌 | shqj
+| 弔矢㐅 |  U+10FF0B | 􏼋 | nmgr ngry
+| 三矢㐅 |  U+10FF0A | 􏼊 | sagr sgry
+| 毌矢㐅 |  U+10FF09 | 􏼉 | mngr mgry
+| 三矢㐅 |  U+10FF08 | 􏼈 | sagr sgry
+| 弔矢㐅 |  U+10FF07 | 􏼇 | nmgr ngry
+| 申矢㐅 |  U+10FF06 | 􏼆 | khgr kgry
+
+
 |----|---|----|-----|-------
 | 艹 矢攵 |  $10FDFF | 􏷿 | vggr
 | 艹 弓矢攵 |  $10FDFE | 􏷾 | vngg

@@ -302,8 +302,11 @@
 | 扌句复 |  U+10FF15 | 􏼕 | aqjq
 | 弔句 |  U+10FF14 | 􏼔 | nmqj
 | 三又㐅 |  U+10FF13 | 􏼓 | sabr sbry
-| 弔又㐅 |  U+10FF12 | 􏼒 | nmbr nbry
+| 弔又㐅 |  U+10FF12 | 􏼒 | mnbr mbry
 | 三句 |  U+10FF11 | 􏼑 | saqj
+| 弔句 |  U+10FF10 | 􏼐 | mnqj
+| 米又㐅 |  U+10FF0F | 􏼏 | icbr ibry
+| 弔又㐅 |  U+10FF0E | 􏼎 | nmbr nbry
 
 |----|---|----|-----|-------
 | 艹 矢攵 |  $10FDFF | 􏷿 | vggr

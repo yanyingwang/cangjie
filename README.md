@@ -307,7 +307,8 @@
 | 弔句 |  U+10FF10 | 􏼐 | mnqj
 | 米又㐅 |  U+10FF0F | 􏼏 | icbr ibry
 | 弔又㐅 |  U+10FF0E | 􏼎 | nmbr nbry
-
+| 又㐅 |  U+10FF0D | 􏼍 | shbr sbry
+| 三丨句 |  U+10FF0C | 􏼌 | shqj
 |----|---|----|-----|-------
 | 艹 矢攵 |  $10FDFF | 􏷿 | vggr
 | 艹 弓矢攵 |  $10FDFE | 􏷾 | vngg

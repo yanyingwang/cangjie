@@ -61,7 +61,11 @@
 | 勺 |  U+2F828 | qnf
 | 𥦯 |  U+259AF | prks
 | 𰅡 |  U+30161 | aq
-
+| 夈 | U+5908 | qyic
+| 宩 | U+5BA9 | paic 
+| 粊 | U+7C8A | qqic
+| 𮀦 | U+2E026 | ksxj
+| 釆 | U+91C6 | gic
 
 
 # 私人编码字符列表
@@ -315,6 +319,52 @@
 | 三矢㐅 |  U+10FF08 | 􏼈 | sagr sgry
 | 弔矢㐅 |  U+10FF07 | 􏼇 | nmgr ngry
 | 申矢㐅 |  U+10FF06 | 􏼆 | khgr kgry
+| 三句 |  U+10FF05 | 􏼅 | saqj
+| 弔句 |  U+10FF04 | 􏼄 | nmqj
+| 毌句 |  U+10FF03 | 􏼃 | mnqj
+| 毌又句 |  U+10FF02 | 􏼂 | mnbj mbqj
+| 山毌句 |  U+10FF01 | 􏼁 | llmj lmqj
+| 山毌又句 |  U+10FF00 | 􏼀 | llmj lmbj
+| 矢十 |  U+10FEFF | 􏻿 | gfva
+| 矢卜 |  U+10FEFE | 􏻾 | gfha
+| 矢十 |  U+10FEFD | 􏻽 | ofgv ogva
+| 山矢十 |  U+10FEFC | 􏻼 | llgv lgva
+| 弔矢十 |  U+10FEFB | 􏻻 | nmgv mgva
+| 三矢十 |  U+10FEFA | 􏻺 | sagv sgva
+| 毌矢十 |  U+10FEF9 | 􏻹 | mngv mgva
+| 穴矢十 |  U+10FEF8 | 􏻸 | prgv
+| 穴句 |  U+10FEF7 | 􏻷 | prqj
+| 非穴句 |  U+10FEF6 | 􏻶 | kspj  kpqj
+| 穴􏿰 |  U+10FEF5 | 􏻵 | prub pubb
+| 丷束 |  U+10FEF4 | 􏻴 | iacj icj ifjc ijc
+| 米束比 |  U+10FEF3 | 􏻳 | iccq
+| 石丷束 |  U+10FEF2 | 􏻲 | xicj xijc
+| 负非 |  U+10FEF1 | 􏻱 | qlrk qlks
+| 非负 |  U+10FEF0 | 􏻰 | ksqr
+| 􏻴比 |  U+10FEEF | 􏻯 | icjq
+| 比􏻴 |  U+10FEEE | 􏻮 | qqij
+| 北􏻴 |  U+10FEED | 􏻭 | uqij
+| 日米 |  U+10FEEC | 􏻬 | gkic
+| 实米 |  U+10FEEB | 􏻫 | puic
+| 爪米 |  U+10FEEA | 􏻪 | eoic
+| 负米 |  U+10FEE9 | 􏻩 | qlic
+| 负米 |  U+10FEE8 | 􏻨 | fhic
+| 石米 |  U+10FEE7 | 􏻧 | xfic
+| 石宀米 |  U+10FEE6 | 􏻦 | xpic
+| 古米 |  U+10FEE5 | 􏻥 | vjic vaji
+| 一口米 |  U+10FEE4 | 􏻤 | gjic
+| 日巾米 |  U+10FEE3 | 􏻣 | jlic
+| 大丁米 |  U+10FEE2 | 􏻢 | xafi xfic
+| 米日大 |  U+10FEE1 | 􏻡 | ickx
+| 米日小 |  U+10FEE0 | 􏻠 | ickk
+| 虍米 |  U+10FEDF | 􏻟 | hzic
+| 立釆 |  U+10FEDE | 􏻞 | yigi
+| 䒑䒑釆 |  U+10FEDD | 􏻝 | iigi
+| 非石米 |  U+10FEDC | 􏻜 | kxic ksxc
+
+
+􏻹􏻺􏻻􏻼􏻽
+􏼉􏼊􏼋􏽔􏽓 
 
 
 |----|---|----|-----|-------
@@ -342,7 +392,7 @@
 
 
 
-胊 韭  㣊
-屮 兦 㧄
+胊 韭  㣊 
+ 兦 㧄 乏 厶 几 卜
 
 

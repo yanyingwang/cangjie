@@ -64,9 +64,15 @@
 | 夈 | U+5908 | qyic
 | 宩 | U+5BA9 | paic 
 | 粊 | U+7C8A | qqic
+| 䉾 | U+427E | uhqi uqic
 | 𮀦 | U+2E026 | ksxj
 | 釆 | U+91C6 | gic
+| 𠤻 | U+2093B | zic
+| 𥺌 | U+25E8C | icrg irgc
+| 𥸷 | U+25E37 | icqr
+| 𫦨 | U+2B9A8 | icng
 
+	
 
 # 私人编码字符列表
 | 分拆 | UNICODE | 字 | 郑码 | 拼音/相关字 |
@@ -361,10 +367,36 @@
 | 立釆 |  U+10FEDE | 􏻞 | yigi
 | 䒑䒑釆 |  U+10FEDD | 􏻝 | iigi
 | 非石米 |  U+10FEDC | 􏻜 | kxic ksxc
+| 米正 |  U+10FEDB | 􏻛 | icfh
+| 米贝 |  U+10FEDA | 􏻚 | iclr
+| 米可 |  U+10FED9 | 􏻙 | icfj
+| 米冂厶 |  U+10FED8 | 􏻘 | iclm
+| 米石 |  U+10FED7 | 􏻗 | icxf
+| 田冖米 |  U+10FED6 | 􏻖 | khpi kpic
+| 大冖米 |  U+10FED5 | 􏻕 | xapi xpic
+| 贝米 |  U+10FED4 | 􏻔 | lric
+| 米商 |  U+10FED3 | 􏻓 | icya
+| 米正匕 |  U+10FED2 | 􏻒 | 
+| 米匕正 |  U+10FED1 | 􏻑 | 
+| 米匕小 |  U+10FED0 | 􏻐 | 
+| 米刀正 |  U+10FECF | 􏻏 | icqh iqfh
+| 米刀禸 |  U+10FECE | 􏻎 | icjm icqm
+| 米刀小 |  U+10FECD | 􏻍 | icjk icqk
+| 米刀大 |  U+10FECC | 􏻌 | icjx icqx
+| 米刀口 |  U+10FECB | 􏻋 | icjj icqj
+| 米力 |  U+10FECA | 􏻊 | icjn icng
+| 米欠 |  U+10FEC9 | 􏻉 | icjq icqr
+|  |  U+10FEC8 |  | 
+| 米束刀口 |  U+10FEC7 | 􏻇 | 
+| 米束刀正 |  U+10FEC6 | 􏻆 | 
+| 米束刀小 |  U+10FEC5 | 􏻅 | 
+| 米束刀大 |  U+10FEC4 | 􏻄 | 
+| 米巜一 |  U+10FEC3 | 􏻃 | icmf
+| 米巜一 |  U+10FEC2 |  􏻂 | icbf
+| 米巜 |  U+10FEC1 | 􏻁 | icma
+| 米巜 |  U+10FEC0 | 􏻀 | icba
 
 
-􏻹􏻺􏻻􏻼􏻽
-􏼉􏼊􏼋􏽔􏽓 
 
 
 |----|---|----|-----|-------
@@ -392,7 +424,7 @@
 
 
 
-胊 韭  㣊 
+胊 韭  㣊  决 巛 巜 卝
  兦 㧄 乏 厶 几 卜
 
 

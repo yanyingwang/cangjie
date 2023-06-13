@@ -71,7 +71,7 @@
 | 𥺌 | U+25E8C | icrg irgc
 | 𥸷 | U+25E37 | icqr
 | 𫦨 | U+2B9A8 | icng
-
+| 𥥪 | U+2596A | pric
 	
 
 # 私人编码字符列表
@@ -342,7 +342,7 @@
 | 穴句 |  U+10FEF7 | 􏻷 | prqj
 | 非穴句 |  U+10FEF6 | 􏻶 | kspj  kpqj
 | 穴􏿰 |  U+10FEF5 | 􏻵 | prub pubb
-| 丷束 |  U+10FEF4 | 􏻴 | iacj icj ifjc ijc
+| 丷束 |  U+10FEF4 | 􏻴 | iacj icj ifjc ijc  𠔗
 | 米束比 |  U+10FEF3 | 􏻳 | iccq
 | 石丷束 |  U+10FEF2 | 􏻲 | xicj xijc
 | 负非 |  U+10FEF1 | 􏻱 | qlrk qlks
@@ -378,7 +378,7 @@
 | 米商 |  U+10FED3 | 􏻓 | icya
 | 米正匕 |  U+10FED2 | 􏻒 | 
 | 米匕正 |  U+10FED1 | 􏻑 | 
-| 米匕小 |  U+10FED0 | 􏻐 | 
+| 立立釆 |  U+10FED0 | 􏻐 | iigi
 | 米刀正 |  U+10FECF | 􏻏 | icqh iqfh
 | 米刀禸 |  U+10FECE | 􏻎 | icjm icqm
 | 米刀小 |  U+10FECD | 􏻍 | icjk icqk
@@ -386,7 +386,7 @@
 | 米刀口 |  U+10FECB | 􏻋 | icjj icqj
 | 米力 |  U+10FECA | 􏻊 | icjn icng
 | 米欠 |  U+10FEC9 | 􏻉 | icjq icqr
-|  |  U+10FEC8 |  | 
+| 米贝 |  U+10FEC8 | 􏻈 | iclr
 | 米束刀口 |  U+10FEC7 | 􏻇 | 
 | 米束刀正 |  U+10FEC6 | 􏻆 | 
 | 米束刀小 |  U+10FEC5 | 􏻅 | 
@@ -395,7 +395,51 @@
 | 米巜一 |  U+10FEC2 |  􏻂 | icbf
 | 米巜 |  U+10FEC1 | 􏻁 | icma
 | 米巜 |  U+10FEC0 | 􏻀 | icba
+| 米束匕禸 |  U+10FEBF | 􏺿 | icjm icqm
+| 米束匕小 |  U+10FEBE | 􏺾 | icjk icqk
+| 米束匕大 |  U+U+10FEBD | 􏺽 |  icjx icqx
+| 米束匕口 |  U+10FEBC | 􏺼 | icjk icqj
+| 石正米束 |  U+10FEBB | 􏺻 | xjfi
+| 虍米 |  U+10FEB9 | 􏺹 | hzic
+| 虍米 |  U+10FEB8 | 􏺸 | hzic
+| 虍米 |  U+10FEB7 | 􏺷 | hzic
+| 虍米 |  U+10FEB6 | 􏺶 | hzic
+| 宀丶米 |  U+10FEB5 | 􏺵 | hzic
+|  |  U+10FEB4 | 􏺴 | ickx
+|  |  U+10FEB3 | 􏺳 | pikx
+|  |  U+10FEB2 | 􏺲 | 
+|  |  U+10FEB1 | 􏺱 | 
+|  |  U+10FEB0 | 􏺰 | 
+|  |  U+10FEAF | 􏺯 | 
+|  |  U+10FEAE | 􏺮 | 
+|  |  U+10FEAD | 􏺭 | 
+|  |  U+10FEAC | 􏺬 | 
+|  |  U+10FEAB | 􏺫 | 
+|  |  U+10FEAA | 􏺪 | 
+|  |  U+10FEA9 | 􏺩 | 
+|  |  U+10FEA8 | 􏺨 | 
+|  |  U+10FEA7 | 􏺧 | icjk
+|  |  U+10FEA6 | 􏺦 | icjw
+|  |  U+10FEA5 | 􏺥 |
+|  |  U+10FEA4 | 􏺤 |
+|  |  U+10FEA3 | 􏺣 | icxh
+|  |  U+10FEA2 | 􏺢 | icjx icxf
+|  |  U+10FEA1 | 􏺡 | icxl icxl ixkl
+|  |  U+10FEA0 | 􏺠 | pixk
+|  |  U+10FE9F | 􏺟 | ixks icxk 
+|  |  U+10FE9E | 􏺞 | icjk ickf
+|  |  U+10FE9D | 􏺝 | icjw icw 
+|  |  U+10FE9C | 􏺜 | ijxk
+|  |  U+10FE9B | 􏺛 | ijxw
+|  |  U+10FE9A | 􏺚 | icqw
+|  |  U+10FE99 | 􏺙 | icpq
 
+
+􏺫􏺪
+􏺧􏺦
+􏺜􏺛
+􏺷􏺶
+􏺞􏺝
 
 
 
@@ -426,5 +470,6 @@
 
 胊 韭  㣊  决 巛 巜 卝
  兦 㧄 乏 厶 几 卜
+扩展B U+20A33 𠨳 卪 卩
 
 

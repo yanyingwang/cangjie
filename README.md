@@ -72,7 +72,11 @@
 | 𥸷 | U+25E37 | icqr
 | 𫦨 | U+2B9A8 | icng
 | 𥥪 | U+2596A | pric
-	
+| 𰁣 | U+30063 | tnmf
+| 卩 | U+5369 | nfff
+| 卪 | U+536A | nyff
+| 𠨳 | U+20A33 | xxny
+
 
 # 私人编码字符列表
 | 分拆 | UNICODE | 字 | 郑码 | 拼音/相关字 |
@@ -418,30 +422,57 @@
 |  |  U+10FEAA | 􏺪 | 
 |  |  U+10FEA9 | 􏺩 | 
 |  |  U+10FEA8 | 􏺨 | 
-|  |  U+10FEA7 | 􏺧 | icjk
-|  |  U+10FEA6 | 􏺦 | icjw
-|  |  U+10FEA5 | 􏺥 |
-|  |  U+10FEA4 | 􏺤 |
-|  |  U+10FEA3 | 􏺣 | icxh
-|  |  U+10FEA2 | 􏺢 | icjx icxf
-|  |  U+10FEA1 | 􏺡 | icxl icxl ixkl
-|  |  U+10FEA0 | 􏺠 | pixk
-|  |  U+10FE9F | 􏺟 | ixks icxk 
-|  |  U+10FE9E | 􏺞 | icjk ickf
-|  |  U+10FE9D | 􏺝 | icjw icw 
-|  |  U+10FE9C | 􏺜 | ijxk
-|  |  U+10FE9B | 􏺛 | ijxw
-|  |  U+10FE9A | 􏺚 | icqw
-|  |  U+10FE99 | 􏺙 | icpq
-
-
-􏺫􏺪
-􏺧􏺦
-􏺜􏺛
-􏺷􏺶
-􏺞􏺝
-
-
+| 米口日 |  U+10FEA7 | 􏺧 | icjk
+| 米口月 |  U+10FEA6 | 􏺦 | icjw
+| 米口可 |  U+10FEA5 | 􏺥 |
+| 米口禸 |  U+10FEA4 | 􏺤 |
+| 米口石正 |  U+10FEA3 | 􏺣 | icxh
+| 米口石 |  U+10FEA2 | 􏺢 | icjx icxf
+| 米口非贝 |  U+10FEA1 | 􏺡 | icxl icxl ixkl
+| 宀米石非 |  U+10FEA0 | 􏺠 | pixk
+| 米石非 |  U+10FE9F | 􏺟 | ixks icxk 
+| 米口日 |  U+10FE9E | 􏺞 | icjk ickf
+| 米口日 |  U+10FE9D | 􏺝 | icjw icw 
+| 丷大口日 |  U+10FE9C | 􏺜 | ijxk
+| 丷大口日 |  U+10FE9B | 􏺛 | ijxw
+| 米口匕月 |  U+10FE9A | 􏺚 | icqw
+| 米口穴匕 |  U+10FE99 | 􏺙 | icpq
+| 米彐小 |  U+10FE98 | 􏺘 | icbk
+| 米彐大 |  U+10FE97 | 􏺗 | icbx
+| 穴矢十 |  U+10FE96 | 􏺖 | prgv
+| 句巨 |  U+10FE95 | 􏺕 | qjzb qnjz
+| 句大与 |  U+10FE94 | 􏺔 | qjxm  
+| 句小与 |  U+10FE93 | 􏺓 | qjkm
+| 句大小 |  U+10FE92 | 􏺒 | qjxk
+| 又㐅 |  U+10FE91 | 􏺑 | byry
+| 矢十 |  U+10FE90 | 􏺐 | gfva
+| 罒勺 |  U+10FE8F | 􏺏 | lkqf lqf
+| 口勺 |  U+10FE8E | 􏺎 | jfqf jqf
+| 由勺 |  U+10FE8D | 􏺍 | khff khqf
+| 土由勺 |  U+10FE8C | 􏺌 | dkqf
+| 日勺 |  U+10FE8B | 􏺋 | kfqfbb
+| 左口刂 |  U+10FE8A | 􏺊 | xdjk
+| 𠂇月 |  U+10FE89 | 􏺉 | xk
+| 日阝 |  U+10FE88 | 􏺈 | kn knf kfnf
+| 月阝|  U+10FE87 | 􏺇 | wn wnf wfnf
+| 又各 |  U+10FE86 | 􏺆 | byqj
+| 各又 |  U+10FE85 | 􏺅 | qjby
+| 广卩 |  U+10FE84 | 􏺄 | uxnf
+| 厂卩 |  U+10FE83 | 􏺃 | xxnf
+| 广卪 |  U+10FE82 | 􏺂 | uxny
+| 厂卪 |  U+10FE81 | 􏺁 | xxny
+| 厂卩亍 |  U+10FE80 | 􏺀 | xnff xxnf
+| 厂卩丁 |  U+10FE7F | 􏹿 | xnff xxnf
+| 厂卩立 |  U+10FE7E | 􏹾 | xnyi xxny
+| 厂卩弔 |  U+10FE7D | 􏹽 | xnnh xxnh
+| 厂卩弓 |  U+10FE7C | 􏹼 | xxnm xnnm
+| 厂卩元 |  U+10FE7B | 􏹻 | xndq xxnq
+| 厂卩匕 |  U+10FE7A | 􏹺 | xxnq xnqf xnqq
+| 厂卩𢀖 |  U+10FE79 | 􏹹 | dnbd
+| 厂卩韦 |  U+10FE78 | 􏹸 | bndh
+| 厂卩止 |  U+10FE77 | 􏹷 | bnhh
+| 厂卩巨 |  U+10FE76 | 􏹶 | xnzb xxnz
+| 厂卩占 |  U+10FE75 | 􏹵 | xnhj
 
 |----|---|----|-----|-------
 | 艹 矢攵 |  $10FDFF | 􏷿 | vggr
@@ -468,8 +499,22 @@
 
 
 
-胊 韭  㣊  决 巛 巜 卝
- 兦 㧄 乏 厶 几 卜
-扩展B U+20A33 𠨳 卪 卩
 
-
+胊 韭  㣊  决 巛 巜 卝 弋 刁 ⼛ 厸
+亾 兦 㧄 乏 厶 几 卜 亐 亇 乆 丩 㔿 𢀓 𢀑 卍 卐
+扩展B U+20A33 
+𠨳  syntax 厄
+卪 卩 Identifier
+亼 集  datum
+module 界 函 境 仓
+侖  伦理；次序
+卬 卭 印
+兯
+阜 阝 孑
+丅丄丌 
+㐃屮屮
+乔
+襾芈 
+屯亢
+巳已
+史吏

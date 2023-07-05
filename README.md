@@ -473,6 +473,49 @@
 | 厂卩止 |  U+10FE77 | 􏹷 | bnhh
 | 厂卩巨 |  U+10FE76 | 􏹶 | xnzb xxnz
 | 厂卩占 |  U+10FE75 | 􏹵 | xnhj
+| 厂卩占 |  U+10FE74 | 􏹴 | xnyr
+| 厂卩占 |  U+10FE73 | 􏹳 | yrxn
+| 厂卩占 |  U+10FE72 | 􏹲 | xnng
+| 厂卩占 |  U+10FE71 | 􏹱 | xnny
+| 厂卩占 |  U+10FE70 | 􏹰 | xnna
+| 匕厂卩 |  U+10FE6F | 􏹯 | qqxn
+| 厂卩匕 |  U+10FE6E | 􏹮 | xnqq
+| 厂尼 |  U+10FE6D | 􏹭 | xbq
+| 厃卩 |  U+10FE6C | 􏹬 | qxn
+| 匕厂卩文 |  U+10FE6B | 􏹫 | qxny
+| 匕厂文厂卩 |  U+10FE6A | 􏹪 | qyxn
+| 厂卩又㐅 |  U+10FE69 | 􏹩 | xnbr
+| 末双 |  U+10FE68 | 􏹨 | fcbb
+| 双末 |  U+10FE67 | 􏹧 | bbfc
+| 双末 |  U+10FE66 | 􏹦 | byfc
+| 双末 |  U+10FE65 | 􏹥 | fcby
+| 厂卩刀 |  U+10FE64 | 􏹤 | xnna
+|  米月刀立 |  U+10FE63 | 􏹣 | iwqi
+| 月米口 |  U+10FE62 | 􏹢 | wijc
+| 大米口 |  U+10FE61 | 􏹡 | xijc
+| 小米口 |  U+10FE60 | 􏹠 | kijc
+| 穴米口 |  U+10FE5F | 􏹟 | pijc pric
+| 一口十米口 |  U+10FE5E | 􏹞 | fkvi
+| 斤口米口 |  U+10FE5D | 􏹝 | eaji eakc
+| 穴斤米口 |  U+10FE5C | 􏹜 | prei prec
+| 口米口 |  U+10FE5B | 􏹛 | jijc
+| 刂米 |  U+10FE5A | 􏹚 | kaic icka
+| 米灬 |  U+10FE59 | 􏹙 | icir
+| 米口刀立 |  U+10FE58 | 􏹘 | 
+| 米刀立 |  U+10FE57 | 􏹗 | 
+| 米口灬 |  U+10FE56 | 􏹖 | 
+| 米丨丨 |  U+10FE55 | 􏹕 | icka
+| 米彡 |  U+10FE54 | 􏹔 | icea
+| 米口彡 |  U+10FE53 | 􏹓 | ijce ijea
+| 米口大彡 |  U+10FE52 | 􏹒 | ijxe
+| 米口小彡 |  U+10FE51 | 􏹑 | ijie
+| 米口穴彡 |  U+10FE50 | 􏹐 | ijpr
+| 米口石 |  U+10FE4F | 􏹏 | ijxf
+| 石米口 |  U+10FE4E | 􏹎 | xfij
+
+
+
+
 
 |----|---|----|-----|-------
 | 艹 矢攵 |  $10FDFF | 􏷿 | vggr
@@ -497,19 +540,23 @@
 | 各且  |  $10FDEC | 􏷬 | qjls | 洜 罝 㚗
 
 
-
-
-
+㒰
+曱
+牢
+並
 胊 韭  㣊  决 巛 巜 卝 弋 刁 ⼛ 厸
 亾 兦 㧄 乏 厶 几 卜 亐 亇 乆 丩 㔿 𢀓 𢀑 卍 卐
 扩展B U+20A33 
 𠨳  syntax 厄
 卪 卩 Identifier
 亼 集  datum
-module 界 函 境 仓
+module 函 境 仓 司
+namespace  限 界
 侖  伦理；次序
 卬 卭 印
 兯
+囙
+尹
 阜 阝 孑
 丅丄丌 
 㐃屮屮
@@ -518,3 +565,5 @@ module 界 函 境 仓
 屯亢
 巳已
 史吏
+㐄
+steam 流 

@@ -599,3 +599,5 @@ U+2f7ff-:-U+2fffd
 
 https://en.wikipedia.org/wiki/Plane_(Unicode)#Supplementary_Ideographic_Plane
 https://www.unicode.org/reports/tr11/tr11-8.html
+https://www.unicode.org/reports/tr11/tr11-40.html#Ambiguous
+ East_Asian_Width

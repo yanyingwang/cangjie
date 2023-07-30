@@ -11,7 +11,7 @@
 | ---  | ------- | -- | --- | 
 | 㘝| 361D  | jaby | 
 | 𨑱 | 28471  | pbby |
-| 𰙪 | 3066A  | tbby |
+| 𰙪 | 3006A  | tbby |
 | 𭠎 | 2D80E   | aby |
 | 𬤏 | 2C90F  |  yuvb |
 | 徝 | --- | rhvl
@@ -509,9 +509,31 @@
 | 米口彡 |  U+10FE53 | 􏹓 | ijce ijea
 | 米口大彡 |  U+10FE52 | 􏹒 | ijxe
 | 米口小彡 |  U+10FE51 | 􏹑 | ijie
-| 米口穴彡 |  U+10FE50 | 􏹐 | ijpr
+| 米口穴彡 |  U+10FE50 | 􏹐 | ijpe
 | 米口石 |  U+10FE4F | 􏹏 | ijxf
 | 石米口 |  U+10FE4E | 􏹎 | xfij
+| 石米口 |  U+10FE4D | 􏹍 | ijpe
+| 彐入 |  U+10FE4C | 􏹌 | bdra bdr
+| 彐阝 |  U+10FE4B | 􏹋 | bdn bdnf
+| 彐刂 |  U+10FE4A | 􏹊 | bdka
+| 日彐 |  U+10FE49 | 􏹉 | kfbd kbd
+| 亻彐入 |  U+10FE48 | 􏹈 | tbra
+| 彐入刂 |  U+10FE47 | 􏹇 | brka
+| 入彐 |  U+10FE46 | 􏹆 | 
+| 彐入阝 |  U+10FE45 | 􏹅 | bdrn brnf brn
+| 日入彐 |  U+10FE44 | 􏹄 | kbr 
+| 巨入 |  U+10FE43 | 􏹃 | zbra zbr
+| 彐入刂 |  U+10FE42 | 􏹂 | 
+| 彐入刂 |  U+10FE41 | 􏹁 | 
+| 彐入刂 |  U+10FE40 | 􏹀 | 
+
+
+
+
+
+
+
+
 
 
 
@@ -540,6 +562,8 @@
 | 各且  |  $10FDEC | 􏷬 | qjls | 洜 罝 㚗
 
 
+
+冓
 㒰
 曱
 牢
@@ -567,3 +591,11 @@ namespace  限 界
 史吏
 㐄
 steam 流 
+
+
+U+2f7ff-:-U+2fffd
+-:---U+3fffd
+
+
+https://en.wikipedia.org/wiki/Plane_(Unicode)#Supplementary_Ideographic_Plane
+https://www.unicode.org/reports/tr11/tr11-8.html

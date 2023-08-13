@@ -76,6 +76,11 @@
 | 卩 | U+5369 | nfff
 | 卪 | U+536A | nyff
 | 𠨳 | U+20A33 | xxny
+| 𡊤 | U+212a4 | dld
+| 𰅰 | U+30170 | vlf  | 直𥄂値
+
+
+
 
 
 # 私人编码字符列表
@@ -523,12 +528,13 @@
 | 彐入阝 |  U+10FE45 | 􏹅 | bdrn brnf brn
 | 日入彐 |  U+10FE44 | 􏹄 | kbr 
 | 巨入 |  U+10FE43 | 􏹃 | zbra zbr
-| 彐入刂 |  U+10FE42 | 􏹂 | 
-| 彐入刂 |  U+10FE41 | 􏹁 | 
-| 彐入刂 |  U+10FE40 | 􏹀 | 
-
-
-
+| 弓入 |  U+10FE42 | 􏹂 | nmra nmr
+| 彐入 |  U+10FE41 | 􏹁 | tnra tnr
+| 歹名 |  U+10FE40 | 􏹀 | fqqj 
+| 歹令 |  U+10FE3F | 􏸿 | fqrp
+| 並名 |  U+10FE3E | 􏸾 | ikqj
+| 並令 |  U+10FE3D | 􏸽 | ikrp
+| 並 |  U+10FE3C | 􏸼 | ikvl
 
 
 
@@ -560,14 +566,32 @@
 | 各且  |  $10FDEE | 􏷮 | qjls | 鵅 组 袓 姐 耝 殂
 | 各或  |  $10FDED | 􏷭 | qjzg | 㦴
 | 各且  |  $10FDEC | 􏷬 | qjls | 洜 罝 㚗
-
-
-
+ 
+ 
+ 
+ 廾
+ 
+ ⿰ 	⿱ 	⿲ 	⿳ 	⿴ 	⿵ 	⿶ 	⿷ 	⿸ 	⿹ 	⿺ 	⿻ 
+ 表意文字描述字符
+ https://zh.wikipedia.org/zh-tw/%E8%A1%A8%E6%84%8F%E6%96%87%E5%AD%97%E6%8F%8F%E8%BF%B0%E5%AD%97%E7%AC%A6
+ 
+ 呂吕
+幷幵幷并𠀤併  竝並
+ 𦫳
+ 冉冄
+ 令令
+𰅰 https://www.hanyuguoxue.com/zidian/zi-196976
+𰙽 https://www.hanyuguoxue.com/zidian/zi-198269
+彐㕣 𠂎 戼 戼 𡖈  夛
+⺼ 月 凩
 冓
 㒰
 曱
+㠯
 牢
-並
+;; 令令今
+亼 亽仐仒兦乚
+𠃏丩𠁢㐃𠁡𠄍𠄑亅𠄌
 胊 韭  㣊  决 巛 巜 卝 弋 刁 ⼛ 厸
 亾 兦 㧄 乏 厶 几 卜 亐 亇 乆 丩 㔿 𢀓 𢀑 卍 卐
 扩展B U+20A33 
@@ -591,13 +615,30 @@ namespace  限 界
 史吏
 㐄
 steam 流 
+尢尤尣
+
+接口：口川  吕  吢
+
+へ お や の乃 いな しい 黒い猫
+中文裡的「好吃的壽司」，日文會說：「美味しい寿司」
+「黑色的貓」，日文是「黒い猫」
+便利な携帯電話(方便的手機)、有名な人(有名的人)
+本屋で売る小説 (在書店賣的小說)、母が作った料理
+彼が食べない寿司(他不吃的壽司)、誰も知らなかった人
+https://www.japanese-language.com.tw/info-107.html
+
+https://zh.wikipedia.org/wiki/%E7%89%87%E5%81%87%E5%90%8D
 
 
 U+2f7ff-:-U+2fffd
 -:---U+3fffd
 
-
+unicode east asian ambiguous char are wide
 https://en.wikipedia.org/wiki/Plane_(Unicode)#Supplementary_Ideographic_Plane
 https://www.unicode.org/reports/tr11/tr11-8.html
 https://www.unicode.org/reports/tr11/tr11-40.html#Ambiguous
  East_Asian_Width
+ https://en.wikipedia.org/wiki/Halfwidth_and_fullwidth_forms
+ OpenType has the "fwid", "halt", "hwid", and "vhal" feature tags to be used for providing fullwidth or halfwidth form of a character.[citation needed] 
+ 
+ https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-east-asian

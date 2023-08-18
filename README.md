@@ -78,8 +78,8 @@
 | 𠨳 | U+20A33 | xxny
 | 𡊤 | U+212a4 | dld
 | 𰅰 | U+30170 | vlf  | 直𥄂値
-
-
+| 𢀖 | U+22016 | bydh
+| 㚈 |  U+3688 | qyva
 
 
 
@@ -446,7 +446,7 @@
 | 米彐大 |  U+10FE97 | 􏺗 | icbx
 | 穴矢十 |  U+10FE96 | 􏺖 | prgv
 | 句巨 |  U+10FE95 | 􏺕 | qjzb qnjz
-| 句大与 |  U+10FE94 | 􏺔 | qjxm  
+| 句大与 |  U+10FE94 | 􏺔 | qjxm
 | 句小与 |  U+10FE93 | 􏺓 | qjkm
 | 句大小 |  U+10FE92 | 􏺒 | qjxk
 | 又㐅 |  U+10FE91 | 􏺑 | byry
@@ -534,12 +534,16 @@
 | 歹令 |  U+10FE3F | 􏸿 | fqrp
 | 並名 |  U+10FE3E | 􏸾 | ikqj
 | 並令 |  U+10FE3D | 􏸽 | ikrp
-| 並 |  U+10FE3C | 􏸼 | ikvl
-
-
-
-
-
+| 並𰅰 |  U+10FE3C | 􏸼 | ikvl
+| 𢀖𰅰 |  U+10FE3B | 􏸻 | bdvl
+| 韦𰅰 |  U+10FE3A | 􏸺 | dnvl
+| 𰅰𢀖 |  U+10FE39 | 􏸹 | vlbd
+| 𰅰韦 |  U+10FE38 | 􏸸 | vldn
+| 並示 |  U+10FE37 | 􏸷 | vldk
+| 句干 |  U+10FE36 | 􏸶 | vqjfv
+| 句穴刀 |  U+10FE35 | 􏸵 | qjpn
+| 亻夕卜 |  U+10FE34 | 􏸴 | tqha
+| 亻歹卜 |  U+10FE33 | 􏸳 | tfqh
 
 
 
@@ -569,12 +573,15 @@
  
  
  
- 廾
  
+ 𠁡𡖄、外(以外)宀外㚈𡖄、宀不, 否刂, 不夕犬
+Λ0
+ 廾
+ 丫
  ⿰ 	⿱ 	⿲ 	⿳ 	⿴ 	⿵ 	⿶ 	⿷ 	⿸ 	⿹ 	⿺ 	⿻ 
  表意文字描述字符
  https://zh.wikipedia.org/zh-tw/%E8%A1%A8%E6%84%8F%E6%96%87%E5%AD%97%E6%8F%8F%E8%BF%B0%E5%AD%97%E7%AC%A6
- 
+ 夭
  呂吕
 幷幵幷并𠀤併  竝並
  𦫳

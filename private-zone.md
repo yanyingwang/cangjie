@@ -476,16 +476,22 @@
 | -- | U+10FE26 | 􏸦
 | -- | U+10FE25 | 􏸥
 | -- | U+10FE24 | 􏸤
-| 丫一 | U+10FE23 | 􏸣 | iaf if
+| 丫一 | U+10FE23 | 􏸣 | ihf if
 | 丫一 | U+10FE22 | 􏸢 |
 | 丷工 | U+10FE21 | 􏸡 |
 | 丫一㐅 | U+10FE20 | 􏸠 |
-| 丫一非 | U+10FE1F | 􏸟 |
-| 丫非 | U+10FE1E | 􏸞 | yhks
+| 丫一非 | U+10FE1F | 􏸟 | ifks
+| 丫非 | U+10FE1E | 􏸞 | ihks
 | 禾非 | U+10FE1D | 􏸝 | gcks
-
-
+| 土禾並𰅰 | U+10FE1C | 􏸜 | dgiv
+| 土禾 | U+10FE1B | 􏸛 | dgc
+| 土禾一 | U+10FE1A | 􏸚 | dgf dgcf
+| 名攵 | U+10FE19 | 􏸙 | qjgr
+| 禾名攵 | U+10FE18 | 􏸘 | gcqg
 |----|---|----|-----|-------
+ | 或各  |  $10FE02 | 􏸂
+ | 且各  |  $10FE01 | 􏸁
+ | 各且  |  $10fe00 | 􏸀
 | 艹 矢攵 |  $10FDFF | 􏷿 | vggr
 | 艹 弓矢攵 |  $10FDFE | 􏷾 | vngg
 | 又末 |  $10FDFD | 􏷽 | byfc
@@ -500,10 +506,10 @@
 | 右刂 |  $10FDF4 | 􏷴 | xaka/xjka
 | 共刂 |  $10FDF3 | 􏷳 | vfka/vrka
 | 寻刂 |  $10FDF2 | 􏷲  | bak/bdak
-| 且各  |  $10FDF1 |  􏷱  | laqj | 略 䪶 鴡 雎 刞 䢸
-| 或各  |  $10FDF0 | 􏷰 | zgqj
+| 并各  |  $10FDF1 |  􏷱  | ivqj | 略 䪶 鴡 雎 刞 䢸
+| 戈各  |  $10FDF0 | 􏷰 | zgqj
 | 亻查各  |  $10FDEF | 􏷯  | tcqj
 | 各且  |  $10FDEE | 􏷮 | qjls | 鵅 组 袓 姐 耝 殂
 | 各或  |  $10FDED | 􏷭 | qjzg | 㦴
 | 各且  |  $10FDEC | 􏷬 | qjls | 洜 罝 㚗
- 
+

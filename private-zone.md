@@ -488,6 +488,10 @@
 | 土禾一 | U+10FE1A | 􏸚 | dgf dgcf
 | 名攵 | U+10FE19 | 􏸙 | qjgr
 | 禾名攵 | U+10FE18 | 􏸘 | gcqg
+| 入肖 | U+10FE17 | 􏸗 | rakw
+| 丨丿肖 | U+10FE16 | 􏸖 | kakw
+| 秝一 | U+10FE15 | 􏸕 | gcgf
+| 秝二 | U+10FE14 | 􏸔 | gcgd
 |----|---|----|-----|-------
  | 或各  |  $10FE02 | 􏸂
  | 且各  |  $10FE01 | 􏸁
@@ -512,4 +516,12 @@
 | 各且  |  $10FDEE | 􏷮 | qjls | 鵅 组 袓 姐 耝 殂
 | 各或  |  $10FDED | 􏷭 | qjzg | 㦴
 | 各且  |  $10FDEC | 􏷬 | qjls | 洜 罝 㚗
+| 各且  |  $10FDEC | 􏷬 | qjls | 洜 罝 㚗
+| 􏿴 part | u10FDEB 􏷫
+土 part | u10FDEA 􏷪
+􏿫 part | u10FDE9 􏷩
+毌 part | u10FDE8 􏷨
+毌 part | u10FDE7 􏷧
+
+
 

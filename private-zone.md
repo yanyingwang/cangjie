@@ -493,9 +493,12 @@
 | 秝一 | U+10FE15 | 􏸕 | gcgf
 | 秝二 | U+10FE14 | 􏸔 | gcgd
 |----|---|----|-----|-------
- | 或各  |  $10FE02 | 􏸂
- | 且各  |  $10FE01 | 􏸁
- | 各且  |  $10fe00 | 􏸀
+
+| $10FE04 | 􏸄 | xdrn
+| $10FE03 | 􏸃 | xjrn
+| 或各  |  $10FE02 | 􏸂
+| 且各  |  $10FE01 | 􏸁
+| 各且  |  $10fe00 | 􏸀
 | 艹 矢攵 |  $10FDFF | 􏷿 | vggr
 | 艹 弓矢攵 |  $10FDFE | 􏷾 | vngg
 | 又末 |  $10FDFD | 􏷽 | byfc
@@ -522,6 +525,34 @@
 􏿫 part | u10FDE9 􏷩
 毌 part | u10FDE8 􏷨
 毌 part | u10FDE7 􏷧
+| U+10fde6 | 􏷦 | nmhq
+| U+10fde5 | 􏷥 | nmhw
+| U+10fde4 | 􏷤 | nmhe
+| U+10fde3 | 􏷣 | nmhr
+| U+10fde2 | 􏷢 | nmht
+| U+10fde1 | 􏷡 | nmhy
+| U+10fde0 | 􏷠 | nmhu
+| U+10fddf | 􏷟 | nmhi
+| U+10fdde | 􏷞 | nmho
+| U+10fddd | 􏷝 | nmhp
+| U+10fddc | 􏷜 | fnh
+| U+10fddb | 􏷛 | danh dnh
+| U+10fdda | 􏷚 | sanh snh
+| U+10fdd9 | 􏷙 | lknh lnh
+| U+10fdd8 | 􏷘 | fbnh fnh
+| U+10fdd7 | 􏷗 | yrnh ynh
+| U+10fdd6 | 􏷖 | zgnh znh
+| U+10fdd5 | 􏷕 | rnh
+| U+10fdd4 | 􏷔 | wnnh wnh
+| U+10fdd3 | 􏷓 | vanh vnh
+
+
+
+
+
+
+
+
 
 
 

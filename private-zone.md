@@ -493,7 +493,21 @@
 | 秝一 | U+10FE15 | 􏸕 | gcgf
 | 秝二 | U+10FE14 | 􏸔 | gcgd
 |----|---|----|-----|-------
-
+| $10FE13 | 􏸓 | lair
+| $10FE12 | 􏸒 | laik
+| $10FE11 | 􏸑 | lain
+| $10FE10 | 􏸐 | xdir xdin
+| $10FE0f | 􏸏 | xdik
+| $10FE0e | 􏸎 | xdin
+| $10FE0d | 􏸍 | iarn
+| $10FE0c | 􏸌 | iaka
+| $10FE0b | 􏸋 | ian
+| $10FE0a | 􏸊 | xdlr
+| $10FE09 | 􏸉 | xdln xlrn
+| $10FE08 | 􏸈 | xdlk xlrk
+| $10FE07 | 􏸇 | xdln xlrn
+| $10FE06 | 􏸆 | xdlk
+| $10FE05 | 􏸅 | xdln
 | $10FE04 | 􏸄 | xdrn
 | $10FE03 | 􏸃 | xjrn
 | 或各  |  $10FE02 | 􏸂
@@ -545,13 +559,20 @@
 | U+10fdd5 | 􏷕 | rnh
 | U+10fdd4 | 􏷔 | wnnh wnh
 | U+10fdd3 | 􏷓 | vanh vnh
-
-
-
-
-
-
-
+| U+10fdd2 | 􏷒 | qyrf qyr 
+| U+10fdd1 | 􏷑 |  tqrf tqr
+| U+10fdd0 | 􏷐 | ivqr
+| U+10fdcf  | 􏷏 | zgqr zqrf
+| U+10fdce | 􏷎 | dqrf dqr
+| U+10fdcd | 􏷍 | tbry
+| U+10fdcc | 􏷌 | gfva
+| U+10fdcb | 􏷋 | rygv
+| U+10fdca | 􏷊 | prbr
+| U+10fdc9 | 􏷉 | aqr
+| U+10fdc8 | 􏷈 | iclk
+| U+10fdc7 | 􏷇 | oala olfj
+| U+10fdc6 | 􏷆 | lahh laka
+| U+10fdc5 | 􏷅 | icld
 
 
 

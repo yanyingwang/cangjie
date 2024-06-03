@@ -55,7 +55,7 @@
 | 𥦯 |  U+259AF | prks
 | 𰅡 |  U+30161 | aq
 | 夈 | U+5908 | qyic
-| 宩 | U+5BA9 | paic 
+| 宩 | U+5BA9 | paic
 | 粊 | U+7C8A | qqic
 | 䉾 | U+427E | uhqi uqic
 | 𮀦 | U+2E026 | ksxj
@@ -80,5 +80,12 @@
 | 𥟍 | U+257CD | gcks
 | 𡌶 | U+21336 | difk
 | 戓 | U+6213 | zgj zj
+| 𢓜 | u224DC | ryqj
+| 𢪛 | u22A9B | ag
+| 𭕄 | u2D544 | oa
+| 𰁦 | u30066 | tg tgr
+| 冃 | U+5183 | lada
+
+
 
 

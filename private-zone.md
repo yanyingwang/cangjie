@@ -368,11 +368,11 @@
 | 句大小 |  U+10FE92 | 􏺒 | qjxk
 | 又㐅 |  U+10FE91 | 􏺑 | byry
 | 矢十 |  U+10FE90 | 􏺐 | gfva
-| 罒勺 |  U+10FE8F | 􏺏 | lkqf lqf
-| 口勺 |  U+10FE8E | 􏺎 | jfqf jqf
-| 由勺 |  U+10FE8D | 􏺍 | khff khqf
-| 土由勺 |  U+10FE8C | 􏺌 | dkqf
-| 日勺 |  U+10FE8B | 􏺋 | kfqfbb
+| 罒􏷂 |  U+10FE8F | 􏺏 | lkqy lqy
+| 〢口 |  U+10FE8E | 􏺎 | kj jk
+| 〢口􏷂 |  U+10FE8D | 􏺍 | jkqy kjqy
+| 〢口􏷂 米 |  U+10FE8C | 􏺌 | jkqi kjqi
+| 龱勺 |  U+10FE8B | 􏺋 | jrqy
 | 左口刂 |  U+10FE8A | 􏺊 | xdjk
 | 𠂇月 |  U+10FE89 | 􏺉 | xk
 | 日阝 |  U+10FE88 | 􏺈 | kn knf kfnf
@@ -572,8 +572,27 @@
 | U+10fdc8 | 􏷈 | iclk
 | U+10fdc7 | 􏷇 | oala olfj
 | U+10fdc6 | 􏷆 | lahh laka
-| U+10fdc5 | 􏷅 | icld
-
-
-
+| U+10fdc5 | 􏷅 | licd lida
+| U+10fdc4 | 􏷄 | icld
+| U+10fdc3 | 􏷃 | icld
+| U+10fdc2 | 􏷂 | icld
+| U+10fdc1 | 􏷁 |
+| U+10fdc0 | 􏷀 | 
+| U+10fdbf | 􏶿 | qnf
+| U+10fdbe | 􏶾 | 
+| U+10fdbd | 􏶽 | 
+| U+10fdbc | 􏶼 | 
+| U+10fdbb | 􏶻 | 
+| U+10fdba | 􏶺 | 
+| U+10fdb9 | 􏶹 | 
+| U+10fdb8 | 􏶸 | 罓 网
+| U+10fdb7 | 􏶷 | 
+| U+10fdb6 | 􏶶 | 
+| U+10fdb5 | 􏶵 | 
+| U+10fdb4 | 􏶴 | 
+| U+10fdb3 | 􏶳 | 
+| U+10fdb2 | 􏶲 | 
+| U+10fdb1 | 􏶱 | 
+| U+10fdb0 | 􏶰 | 
+| U+10fdaf | 􏶯 | 
 

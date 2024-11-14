@@ -52,6 +52,9 @@
 | 𮇢 |  U+2e1e2 | icql
 | 㞺 |  U+37BA | llgf
 | 勺 |  U+2F828 | qnf
+| 𭅆 | 扩展F U+2D146
+| 勺  | 兼容 U+FA77 | qny
+| 勺 | 基本区 U+52FA | 
 | 𥦯 |  U+259AF | prks
 | 𰅡 |  U+30161 | aq
 | 夈 | U+5908 | qyic

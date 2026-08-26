@@ -89,7 +89,8 @@
 | 𰁦 | u30066 | tg tgr
 | 冃 | U+5183 | lada
 | 㞢 | U+5183 | mh mhf
-
+| 𢎨 | U+223a8 | nmht nht
+| 侕 | U+4f95 | txl 
 
 
 

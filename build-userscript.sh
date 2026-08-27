@@ -6,7 +6,7 @@ cat > cangjie-chatgpt.user.js <<EOF
 // ==UserScript==
 // @name         Cangjie Font for ChatGPT
 // @namespace    https://github.com/yanyingwang/cangjie
-// @version      0.1.0
+// @version      0.2.0
 // @description  Use the Cangjie font for Ming characters in ChatGPT.
 // @match        https://chatgpt.com/*
 // @match        https://chat.openai.com/*
@@ -55,7 +55,7 @@ cat > cangjie-chatgpt.user.js <<EOF
         style.id = 'cangjie-font-style';
 
         style.textContent = \`
-            [contenteditable="true"] {
+            body * {
                 font-family:
                     "cangjie",
                     "-apple-system-body",

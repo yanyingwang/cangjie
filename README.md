@@ -5,6 +5,12 @@
 * 在gedit中， 可以按下`Shift+Ctrl+u`后输入unicode编码然后按回车即可输入相应字。
 * 使用[rime输入法](https://github.com/yanyingwang/rime_custom)配合[asdfma](https://github.com/yanyingwang/asdfzma/)输入方案来输入，编码见[ming_lang.dict.yaml](https://github.com/yanyingwang/rime_custom/blob/master/dicts/asdfzma/ming_lang.dict.yaml)。
 
+# 在scribble中使用
+cangjie.css 从 build-css.sh 脚本生成，用在scribble中。
+
+# 在chatgpt中使用
+cangjie-chatgpt.user.js 从 build-userscript.sh 脚本生成，通过tampermonkey将其引入可在chatgpt中显示cangjie字体的自造字。
+
 
 # 非现代汉语常用字列表
 见文件：odd-cn.md

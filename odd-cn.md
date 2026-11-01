@@ -91,6 +91,6 @@
 | 㞢 | U+5183 | mh mhf
 | 𢎨 | U+223a8 | nmht nht
 | 侕 | U+4f95 | txl 
-
+| 𢉜 | U+2225c | uxdg
 
 
